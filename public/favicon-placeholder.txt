@@ -1,0 +1,17 @@
+<!-- Favicon Placeholder -->
+<!-- Replace this file with actual favicon.ico -->
+<!-- 
+This is a placeholder text file. 
+In a real project, you would replace this with:
+- favicon.ico (16x16, 32x32, 48x48 pixels)
+- apple-touch-icon.png (180x180 pixels)  
+- favicon-32x32.png
+- favicon-16x16.png
+
+You can generate these files from a logo using:
+- https://favicon.io/
+- https://realfavicongenerator.net/
+- https://www.favicon-generator.org/
+
+Place the generated files in the /public folder.
+-->

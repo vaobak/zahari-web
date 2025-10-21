@@ -1,0 +1,19 @@
+CV Dr. Zahari - Placeholder
+
+Ini adalah file placeholder untuk CV Dr. Zahari dalam format PDF.
+
+Untuk menggunakan website ini:
+1. Ganti file ini dengan CV PDF yang sebenarnya
+2. Pastikan nama file tetap "cv-dr-zahari.pdf"
+3. File harus berada di folder "public/files/"
+
+Format yang disarankan untuk CV:
+- Informasi Personal
+- Pendidikan
+- Pengalaman Kerja
+- Publikasi
+- Penghargaan
+- Keterampilan
+- Aktivitas Profesional
+
+Website akan secara otomatis menampilkan link download ke file ini.
